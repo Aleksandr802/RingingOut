@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Ringing_OutApp: App {
+struct Blutooth_RingoutApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
