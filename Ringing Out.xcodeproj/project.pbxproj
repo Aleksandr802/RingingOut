@@ -6,7 +6,12 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		D75E51E62E11E5BC00BD2F0A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D75E51DF2E11E5BC00BD2F0A /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
+		D75E51DF2E11E5BC00BD2F0A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		D777AC732DCFA4E600F413DA /* Ringing Out.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ringing Out.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -32,6 +37,7 @@
 		D777AC6A2DCFA4E600F413DA = {
 			isa = PBXGroup;
 			children = (
+				D75E51DF2E11E5BC00BD2F0A /* README.md */,
 				D777AC752DCFA4E600F413DA /* Ringing Out */,
 				D777AC742DCFA4E600F413DA /* Products */,
 			);
@@ -109,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D75E51E62E11E5BC00BD2F0A /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
